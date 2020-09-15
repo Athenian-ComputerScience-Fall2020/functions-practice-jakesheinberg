@@ -11,10 +11,16 @@ def offer_drink():
 def offer_food():
    print("Biscuit?")
 
+def joke():
+    print("Call me honey nut because...")
+
 def say_bye():
    print("Cheerio then.")
 
 
-offer_drink()
+
 say_hi()
+offer_drink()
 offer_food()
+joke()
+say_bye()
