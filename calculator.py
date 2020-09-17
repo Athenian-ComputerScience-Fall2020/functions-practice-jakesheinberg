@@ -7,7 +7,10 @@ def add(a,b):
 def multiply(a,b):
     return a*b
 def divide(a,b):
-    return a/b
+    if b==0:
+        return print("You cant divide by zero.")
+    else:
+        return a/b
 def subtract(a,b):
     return a-b
 
