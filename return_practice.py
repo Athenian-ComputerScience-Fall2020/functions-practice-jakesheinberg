@@ -20,6 +20,7 @@ print(output_num)
 
 '''
 Add prediction(s) here:
-
+45
+it sets a variable to the output of math 2 and prints that variable
 
 '''
